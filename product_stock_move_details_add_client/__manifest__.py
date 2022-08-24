@@ -3,7 +3,7 @@
 
 {
     "name": "Product Stock Move Details Add Client",
-    "version": "14.0.0.0",
+    "version": "15.0.0.0",
     "summary": "Product Stock Move Details Add Client",
     "author": "Dani Domínguez",
     "company": "Xtendoo",
